@@ -1,4 +1,4 @@
-# Some-Kaggle_soloutions
+# Some Kaggle soloutions
 In this repo , i will post my soloutions for some of the kaggle ML problems, some of them Will have video walkthrought in Arabic
 
 ## Titanaic Soloution using Normal Machine learning techniques : 
