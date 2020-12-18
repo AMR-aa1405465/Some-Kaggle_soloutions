@@ -4,6 +4,7 @@ In this repo , i will post my soloutions for some of the kaggle ML problems, som
 ## Titanaic Soloution using Normal Machine learning techniques : 
 File: Final_Project_AIBootcamp.ipynb 
 Video : https://www.youtube.com/watch?v=rPGdaMHHGvQ 
+Deployed [here](https://amr-titanic-predictor.herokuapp.com/)
 
 ## Titanic soloution using Deep Neural network using keras 
 File : Final_project_AIBootcamp2.ipynb 
